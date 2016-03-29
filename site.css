@@ -1,8 +1,8 @@
 body {
+    background-color: #00467f;
+    color: white;
 }
 
-h1 {
-}
-
-h2 {
+h1:hover, h2:hover, p:hover, li:hover {
+    color: gray;
 }
